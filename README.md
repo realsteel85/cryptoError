@@ -1,4 +1,5 @@
 # cryptoError
+cd error
 
 yarn install
 
